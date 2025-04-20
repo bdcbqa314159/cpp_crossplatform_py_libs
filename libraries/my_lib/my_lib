@@ -1,0 +1,8 @@
+#pragma once
+#ifndef MY_LIB
+#define MY_LIB
+
+#include "./includes/constants.hpp"  // IWYU pragma: keep
+#include "./includes/functions.hpp"  // IWYU pragma: keep
+
+#endif  // MY_LIB
