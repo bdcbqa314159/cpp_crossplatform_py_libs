@@ -1,4 +1,4 @@
-project(fdm_world)
+project(my_lib)
 
 set(includes includes/)
 set(sources src/functions.cpp)

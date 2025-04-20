@@ -154,3 +154,5 @@ resources
 build_manual
 install/
 .vs
+.venv
+python/**/
